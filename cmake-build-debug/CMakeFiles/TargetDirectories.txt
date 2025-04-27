@@ -1,0 +1,3 @@
+/Users/ethankangoum/CLionProjects/project_image_processing_in_c/cmake-build-debug/CMakeFiles/project_image_processing_in_c.dir
+/Users/ethankangoum/CLionProjects/project_image_processing_in_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ethankangoum/CLionProjects/project_image_processing_in_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

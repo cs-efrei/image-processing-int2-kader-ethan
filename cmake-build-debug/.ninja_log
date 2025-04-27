@@ -1,0 +1,11 @@
+# ninja log v6
+10	1720	1745788189182328955	CMakeFiles/project_image_processing_in_c.dir/main.c.o	5ff35ee134ce8576
+1721	1796	1745788190893369777	CMakeFiles/project_image_processing_in_c.dir/bmp24.c.o	b64334a116c793f
+10	1732	1745788189182691402	CMakeFiles/project_image_processing_in_c.dir/bmp8.c.o	1986dd38da0d76f2
+1732	1802	1745788190904260163	CMakeFiles/project_image_processing_in_c.dir/filters.c.o	9e9e4bc84cd0e4f1
+9	2772	1745788189181580425	CMakeFiles/project_image_processing_in_c.dir/main.cpp.o	490da69361d34093
+18	684	1745788635925882136	CMakeFiles/project_image_processing_in_c.dir/bmp8.c.o	f13594333ff4abce
+20	686	1745788635927421204	CMakeFiles/project_image_processing_in_c.dir/filters.c.o	9dec38ac581d5a22
+17	690	1745788635924318966	CMakeFiles/project_image_processing_in_c.dir/main.c.o	e47d58637c5315be
+684	784	1745788636591457697	CMakeFiles/project_image_processing_in_c.dir/histogram.c.o	180c65e37262027a
+785	1036	1745788636692200916	project_image_processing_in_c	98cb4ec5af26e84c
